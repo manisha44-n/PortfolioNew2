@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   const contact_info = [
-    { logo: "mail", text: "manishajhinkwan@gmail.com" },
+    { logo: "mail", text: "manishajhinkwan346@gmail.com" },
     { logo: "logo-whatsapp", text: "123 456 780" },
     {
       logo: "location",
